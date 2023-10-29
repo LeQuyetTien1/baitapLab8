@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitapLab8.1", "baitapLab8\baitapLab8.1.csproj", "{E9453172-A801-483B-AB50-1F128CF9A21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitapLab8.3", "baitapLab8.3\baitapLab8.3.csproj", "{64DDB529-859D-4CA3-8EB1-AF30B71A0A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9453172-A801-483B-AB50-1F128CF9A21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9453172-A801-483B-AB50-1F128CF9A21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9453172-A801-483B-AB50-1F128CF9A21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9453172-A801-483B-AB50-1F128CF9A21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DDB529-859D-4CA3-8EB1-AF30B71A0A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DDB529-859D-4CA3-8EB1-AF30B71A0A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DDB529-859D-4CA3-8EB1-AF30B71A0A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DDB529-859D-4CA3-8EB1-AF30B71A0A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C05674E-BDF7-4DD7-AFE5-FEED49486A31}
+	EndGlobalSection
+EndGlobal
